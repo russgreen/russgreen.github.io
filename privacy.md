@@ -1,5 +1,5 @@
 # Privacy Policy
-Last updated 20.03.2022
+Last updated "`r format(Sys.time(), '%d %B, %Y')`"
 
 This policy applies to my applications distributed via the Autodesk App Store. 
 
