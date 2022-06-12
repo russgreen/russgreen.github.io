@@ -1,3 +1,6 @@
 title : Russ Green
 # theme: jekyll-theme-slate
 theme: minima
+
+header_pages: 
+- README.html
