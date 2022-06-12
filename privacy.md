@@ -1,4 +1,7 @@
-# Privacy Policy
+---
+layout: page
+title: Privacy Policy
+---
 Last updated 20 March 2022
 
 This policy applies to my applications distributed via the Autodesk App Store. 
